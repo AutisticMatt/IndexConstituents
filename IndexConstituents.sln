@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutisticMatt.IndexConstituents", "IndexConstituents\AutisticMatt.IndexConstituents.csproj", "{840115CC-A710-4EE4-B703-CD30E66C2522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutisticMatt.DevConsole", "DevConsole\AutisticMatt.DevConsole.csproj", "{1831BE15-2702-4E85-A0C1-C73311987149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{840115CC-A710-4EE4-B703-CD30E66C2522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840115CC-A710-4EE4-B703-CD30E66C2522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840115CC-A710-4EE4-B703-CD30E66C2522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840115CC-A710-4EE4-B703-CD30E66C2522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1831BE15-2702-4E85-A0C1-C73311987149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1831BE15-2702-4E85-A0C1-C73311987149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1831BE15-2702-4E85-A0C1-C73311987149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1831BE15-2702-4E85-A0C1-C73311987149}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB2ABD0C-C6E5-45C2-869A-79BABCD43A0D}
+	EndGlobalSection
+EndGlobal
